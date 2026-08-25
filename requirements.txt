@@ -1,0 +1,5 @@
+streamlit
+chromadb
+scikit-learn
+python-dotenv
+openai
